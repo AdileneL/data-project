@@ -1,0 +1,29 @@
+h1 {
+ 
+    color: #7c3a2b;
+    margin-left: 40px;
+    font-size: 40px;
+    text-align: center;
+    border: 1px solid black;
+    outline-style: double;
+   
+    
+} 
+h2{
+    color:#5e4f4d;
+    margin-left: 50px;
+    text-align:center;
+  
+}
+body {
+    background-color: #e6b3b3;
+
+    
+
+}
+
+.card-title {
+text-decoration: underline;
+font-size:30px;
+color:bolded-white;
+}
